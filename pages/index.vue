@@ -2,12 +2,12 @@
   <div class="w-full overflow-hidden">
     <div class="hero md:min-h-screen md:max-h-screen md:h-screen w-full relative">
       <HeaderParts/>
-      <div class="flex mx-4 md:mx-0 flex-col items-center justify-center mt-20 relative z-10">
-        <h1 class="text-4xl md:text-5xl text-center text-white font-semibold">
+      <div class="flex mx-4 md:mx-0 flex-col items-center justify-center mt-20 relative z-10" data-aos="fade-left">
+        <h1 class="text-4xl md:text-5xl text-center text-white font-semibold" >
           Build Your Carrer. <br/>
           Grow Together & Faster
         </h1>
-        <nuxt-link to="/home" class="rounded-full mt-4 mb-24 px-6 py-2 inline-block" style="background-color: #F2AD5F">Explore Mine</nuxt-link>
+        <nuxt-link to="/home" class="rounded-full mt-4 mb-24 px-6 py-2 inline-block" style="background-color: #F2AD5F" >Explore Mine</nuxt-link>
       </div>
       <PassThrough class="transform -translate-x-48 md:translate-x-0 -translate-y-48 md:-translate-y-32 absolute top-0 scale-75 md:scale-100"/>
     </div>
@@ -16,10 +16,10 @@
     </div>
     <BannerParts/>
     <ServicesParts/>
-    <div class="flex mt-32 flex-col items-center justify-center">
-      <h1 class="text-center font-color-one text-4xl mx-4 md:mx-0 font-semibold ">Our Feature Jobs <br/> That Might You Need</h1>
+    <div class="flex mt-32 flex-col items-center justify-center" data-aos="slide-up">
+      <h1 class="text-center font-color-one text-4xl mx-4 md:mx-0 font-semibold" data-aos="slide-down" data-aos-duration="1000">Our Feature Jobs <br/> That Might You Need</h1>
       <JobsItem/>
-      <nuxt-link to="/home" class="block hover:underline my-6">View More Incoming Jobs</nuxt-link>
+      <nuxt-link to="/home" class="block hover:underline my-6" data-aos="slide-down" data-aos-duration="1000">View More Incoming Jobs</nuxt-link>
     </div>
     <FooterParts/>
   </div>

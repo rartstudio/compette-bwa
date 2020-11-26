@@ -1,6 +1,6 @@
 <template>
     <div class="flex  flex-wrap md:flex-no-wrap">
-        <div class="w-full md:w-3/12 bg-white mx-4 my-4 px-6 py-6 transition-all duration-300 shadow-md rounded-3xl hover:shadow-lg transform hover:scale-110">
+        <div class="w-full md:w-3/12 bg-white mx-4 my-4 px-6 py-6 transition-all duration-300 shadow-md rounded-3xl hover:shadow-lg transform hover:scale-110" data-aos="flip-left" data-aos-duration="500">
           <div class="header flex items-center mt-8">
             <img src="~assets/images/twitter.png" alt="">
             <div class="header__title ml-4">
@@ -19,7 +19,7 @@
             FULL TIME
           </span>
         </div>
-        <div class="w-full md:w-3/12 bg-white mx-4 my-4 px-6 py-6 transition-all duration-300 shadow-md rounded-3xl hover:shadow-lg transform hover:scale-110">
+        <div class="w-full md:w-3/12 bg-white mx-4 my-4 px-6 py-6 transition-all duration-300 shadow-md rounded-3xl hover:shadow-lg transform hover:scale-110" data-aos="flip-left" data-aos-duration="750">
           <div class="header flex items-center mt-8">
             <img src="~assets/images/google2.png" alt="">
             <div class="header__title ml-4">
@@ -38,7 +38,7 @@
             FULL TIME
           </span>
         </div>
-        <div class="w-full md:w-3/12 bg-white mx-4 my-4 px-6 py-6 transition-all duration-300 shadow-md rounded-3xl hover:shadow-lg transform hover:scale-110">
+        <div class="w-full md:w-3/12 bg-white mx-4 my-4 px-6 py-6 transition-all duration-300 shadow-md rounded-3xl hover:shadow-lg transform hover:scale-110" data-aos="flip-left" data-aos-duration="1000">
           <div class="header flex items-center mt-8">
             <img src="~assets/images/amazon.png" alt="">
             <div class="header__title ml-4">
@@ -57,7 +57,7 @@
             FULL TIME
           </span>
         </div>
-        <div class="w-full md:w-3/12 bg-white mx-4 my-4 px-6 py-6 transition-all duration-300 shadow-md rounded-3xl hover:shadow-lg transform hover:scale-110">
+        <div class="w-full md:w-3/12 bg-white mx-4 my-4 px-6 py-6 transition-all duration-300 shadow-md rounded-3xl hover:shadow-lg transform hover:scale-110" data-aos="flip-left" data-aos-duration="1250">
           <div class="header flex items-center mt-8">
             <img src="~assets/images/linkedin.png" alt="">
             <div class="header__title ml-4">

@@ -1,5 +1,5 @@
 <template>
-    <footer class="flex justify-center items-center min-h-screen max-h-screen h-screen w-full px-4 md:px-0">
+    <footer class="flex justify-center items-center min-h-screen max-h-screen h-screen w-full px-4 md:px-0" data-aos="slide-up" data-aos-duration="1000">
       <div class="w-full md:w-1/2 h-64 color-two rounded-2xl flex flex-col items-center shadow-xl">
         <h2 class="text-2xl text-white mt-8">Subscribe New Job</h2>
         <p class="text-white text-gray-500">We promise never send you a spam</p>
